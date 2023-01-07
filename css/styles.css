@@ -3,13 +3,18 @@ body, ul, li, h1, h2, a{
     padding: 0;
     font-family: arial;
 }
+.wrapper {
+    margin: 0 auto ;
+    width: 1200px;
+}
 header {
     background-color: #F63232;
     padding: 20px;
     text-align: center;
     position: fixed;
-    width: 100%;
+    width: 1160px;
     z-index: 1;
+    
 }
 header h1{
     color: white;
